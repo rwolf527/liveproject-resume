@@ -123,4 +123,5 @@ dmypy.json
 
 .DS_Store
 *.zip
+*.pickle
 # End of https://www.gitignore.io/api/python,jupyternotebooks
